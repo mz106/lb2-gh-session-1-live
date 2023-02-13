@@ -7,6 +7,9 @@ for (let i in myObj) {
   console.log(i);
 }
 
+//hello everyone
+// i'd like to be broken
+
 const myOtherObj = {
   faveANIMAL: "DOG",
   animalName: "fred",

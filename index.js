@@ -3,6 +3,10 @@ const myObj = {
   isAwesome: true,
 };
 
+for (let i in myObj) {
+  console.log(i);
+}
+
 const myOtherObj = {
   faveANIMAL: "DOG",
   animalName: "fred",
